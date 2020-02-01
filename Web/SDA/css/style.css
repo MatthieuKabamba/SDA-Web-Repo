@@ -20,6 +20,8 @@ a {
   transition: 0.5s;
 }
 
+
+
 a:hover,
 a:active,
 a:focus {
@@ -33,7 +35,6 @@ p {
   margin: 0 0 30px 0;
 }
 
-h1,
 h2,
 h3,
 h4,
